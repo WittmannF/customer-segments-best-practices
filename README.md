@@ -39,4 +39,16 @@ sns.heatmap(data.corr(), annot=True);
         - https://www.youtube.com/watch?time_continue=3&v=th34aboBOO0    
         ![Screen Shot 2019-04-03 at 14 12 53](https://user-images.githubusercontent.com/5733246/55513466-9aeef200-561a-11e9-86df-912862b3e2e4.png)
         
+- Este slide resume bem a diferença entre ambos GMM e k-means:  
+[![slide_6.jpg](http://images.slideplayer.com/17/5305656/slides/slide_6.jpg)](http://images.slideplayer.com/17/5305656/slides/slide_6.jpg)
+
+- Este GIF ilustra como GMM funciona:
+
+[![Animation1.gif](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/38140/1529162571/Animation1.gif)](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/38140/1529162571/Animation1.gif)
+
+- E este, como K-Means funciona:
+
+[![K-means_convergence.gif](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/38140/1529162788/K-means_convergence.gif)](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/38140/1529162788/K-means_convergence.gif)
+
+- Podemos claramente ver que o GMM é um caso generalizado de k-means: o GMM executa uma atribuição suave enquanto o k-means executa uma atribuição dura.
 
