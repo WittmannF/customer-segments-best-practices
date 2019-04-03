@@ -11,11 +11,10 @@ sns.heatmap(data[:150], annot=True, ax=ax)
 
 - Visualização das correlações
 
-````
+```
 import seaborn as sns
 sns.heatmap(data.corr(), annot=True);
 ```
-
 ![download.png](https://udacity-reviews-uploads.s3.amazonaws.com/_attachments/38140/1508794850/download.png)
 
 - Distribuição dos atributos antes da aplicação da transformação logarítimica
