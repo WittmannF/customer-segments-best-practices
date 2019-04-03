@@ -29,7 +29,7 @@ sns.heatmap(data.corr(), annot=True);
 [![download (17).png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/38140/1535106281/download__17_.png)](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/38140/1535106281/download__17_.png)
 
 - Revisão sobre PCA
-    - Disponível no curso gratuíto [Intro to Machine Learning](https://classroom.udacity.com/courses/ud120/lessons/2962298545/concepts/30765685820923)
+    - Disponível gratuitamente no curso [Intro to Machine Learning](https://classroom.udacity.com/courses/ud120/lessons/2962298545/concepts/30765685820923)
     - Principais vídeos:
         - https://www.youtube.com/watch?time_continue=62&v=nDuo5ECT1G4
         - https://www.youtube.com/watch?time_continue=4&v=Kst3mlrqJnQ
